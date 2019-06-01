@@ -1,0 +1,9 @@
+{
+  "backgrounds": ["#E65F5C", "#FFFF82", "#96BDC6", "#B5D99C", "#5CF96E"],
+  "happyMode": true,
+  "enableRecap": true,
+  "transitionSpeed": 15,
+  "cacheTimer": 7200,
+  "appLocale": "dk",
+  "appId": 1133885137
+}
